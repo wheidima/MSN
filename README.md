@@ -1,1 +1,1 @@
-# MSN
+# Multiscale Spatiotemporal Network - MSN
