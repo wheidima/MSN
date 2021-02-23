@@ -3,6 +3,6 @@ This repository contains the model presented in the work A Deep Multiscale Spati
 
 MSN-69 is implemented in msn69.py
 
-The paper is available [here](https://ieeexplore.ieee.org/document/9186792).
+You can finetune the model using main.py
 
-Currently, I am updating the material on this repository.
+The paper is available [here](https://ieeexplore.ieee.org/document/9186792).
